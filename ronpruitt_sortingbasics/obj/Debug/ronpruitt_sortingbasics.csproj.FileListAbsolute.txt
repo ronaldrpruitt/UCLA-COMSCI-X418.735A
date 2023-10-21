@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Ucla-Net 2\week2\ronpruitt_sortingbasics\bin\Debug\ronpruitt_sortingbasics.exe.config
+C:\Users\Administrator\Desktop\Ucla-Net 2\week2\ronpruitt_sortingbasics\bin\Debug\ronpruitt_sortingbasics.exe
+C:\Users\Administrator\Desktop\Ucla-Net 2\week2\ronpruitt_sortingbasics\bin\Debug\ronpruitt_sortingbasics.pdb
+C:\Users\Administrator\Desktop\Ucla-Net 2\week2\ronpruitt_sortingbasics\obj\Debug\ronpruitt_sortingbasics.exe
+C:\Users\Administrator\Desktop\Ucla-Net 2\week2\ronpruitt_sortingbasics\obj\Debug\ronpruitt_sortingbasics.pdb

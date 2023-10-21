@@ -1,0 +1,5 @@
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\AnimalAttribute\bin\Debug\AnimalAttribute.dll
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\AnimalAttribute\bin\Debug\AnimalAttribute.pdb
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\AnimalAttribute\obj\Debug\AnimalAttribute.csproj.CoreCompileInputs.cache
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\AnimalAttribute\obj\Debug\AnimalAttribute.dll
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\AnimalAttribute\obj\Debug\AnimalAttribute.pdb

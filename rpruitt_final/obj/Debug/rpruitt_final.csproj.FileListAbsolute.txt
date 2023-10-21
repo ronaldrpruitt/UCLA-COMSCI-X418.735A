@@ -1,0 +1,9 @@
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\final\rpruitt_final\bin\Debug\ConsoleFood.mdf
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\final\rpruitt_final\bin\Debug\ConsoleFood_log.ldf
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\final\rpruitt_final\bin\Debug\rpruitt_final.exe.config
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\final\rpruitt_final\bin\Debug\rpruitt_final.exe
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\final\rpruitt_final\bin\Debug\rpruitt_final.pdb
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\final\rpruitt_final\obj\Debug\rpruitt_final.csproj.CoreCompileInputs.cache
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\final\rpruitt_final\obj\Debug\rpruitt_final.exe
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\final\rpruitt_final\obj\Debug\rpruitt_final.pdb
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\final\rpruitt_final\obj\Debug\rpruitt_final.csprojAssemblyReference.cache

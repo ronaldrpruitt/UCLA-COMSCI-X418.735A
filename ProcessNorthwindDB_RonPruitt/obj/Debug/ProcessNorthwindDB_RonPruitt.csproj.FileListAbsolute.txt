@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Ucla-Net 2\week4\ProcessNorthwindDB_RonPruitt\bin\Debug\ProcessNorthwindDB_RonPruitt.exe.config
+C:\Users\Administrator\Desktop\Ucla-Net 2\week4\ProcessNorthwindDB_RonPruitt\bin\Debug\ProcessNorthwindDB_RonPruitt.exe
+C:\Users\Administrator\Desktop\Ucla-Net 2\week4\ProcessNorthwindDB_RonPruitt\bin\Debug\ProcessNorthwindDB_RonPruitt.pdb
+C:\Users\Administrator\Desktop\Ucla-Net 2\week4\ProcessNorthwindDB_RonPruitt\obj\Debug\ProcessNorthwindDB_RonPruitt.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Ucla-Net 2\week4\ProcessNorthwindDB_RonPruitt\obj\Debug\ProcessNorthwindDB_RonPruitt.exe
+C:\Users\Administrator\Desktop\Ucla-Net 2\week4\ProcessNorthwindDB_RonPruitt\obj\Debug\ProcessNorthwindDB_RonPruitt.pdb

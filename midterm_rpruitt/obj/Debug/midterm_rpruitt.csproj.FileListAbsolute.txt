@@ -1,0 +1,9 @@
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\midterm\midterm_rpruitt\bin\Debug\Great_PruittR.mdf
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\midterm\midterm_rpruitt\bin\Debug\Great_PruittR_log.ldf
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\midterm\midterm_rpruitt\bin\Debug\midterm_rpruitt.exe.config
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\midterm\midterm_rpruitt\bin\Debug\midterm_rpruitt.exe
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\midterm\midterm_rpruitt\bin\Debug\midterm_rpruitt.pdb
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\midterm\midterm_rpruitt\obj\Debug\midterm_rpruitt.csproj.CoreCompileInputs.cache
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\midterm\midterm_rpruitt\obj\Debug\midterm_rpruitt.exe
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\midterm\midterm_rpruitt\obj\Debug\midterm_rpruitt.pdb
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\midterm\midterm_rpruitt\obj\Debug\midterm_rpruitt.csprojAssemblyReference.cache

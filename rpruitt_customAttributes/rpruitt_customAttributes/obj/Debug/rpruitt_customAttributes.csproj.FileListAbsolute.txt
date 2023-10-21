@@ -1,0 +1,10 @@
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\rpruitt_customAttributes\bin\Debug\rpruitt_customAttributes.exe.config
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\rpruitt_customAttributes\bin\Debug\rpruitt_customAttributes.exe
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\rpruitt_customAttributes\bin\Debug\rpruitt_customAttributes.pdb
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\rpruitt_customAttributes\bin\Debug\AnimalAttribute.dll
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\rpruitt_customAttributes\bin\Debug\AnimalAttribute.pdb
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\rpruitt_customAttributes\obj\Debug\rpruitt_customAttributes.csprojAssemblyReference.cache
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\rpruitt_customAttributes\obj\Debug\rpruitt_customAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\rpruitt_customAttributes\obj\Debug\rpruitt_customAttributes.csproj.CopyComplete
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\rpruitt_customAttributes\obj\Debug\rpruitt_customAttributes.exe
+C:\Users\Danzig\Documents\Homework\Ucla-Net 2\week5\rpruitt_customAttributes\obj\Debug\rpruitt_customAttributes.pdb
